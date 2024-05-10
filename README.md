@@ -1,1 +1,1 @@
-# Genetic-and-PSO-algorithum-for-secure-domination-number
+# Genetic-and-PSO-algorithm-for-secure-domination-number
